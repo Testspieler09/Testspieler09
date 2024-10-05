@@ -45,7 +45,7 @@
 **I also use some other tools, not listed here**
 
 
-## Hacktober 2024
+## Hacktoberfest 2024
 [![An image of @testspieler09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/testspieler09)](https://holopin.io/@testspieler09)
 
 <!---
